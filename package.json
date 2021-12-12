@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "0.1.0",
+  "description": "Spike on deploying node.js app to AWS EKS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeriljon/node-k8s-spike.git"
+  },
+  "author": "jeriljon@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeriljon/node-k8s-spike/issues"
+  },
+  "homepage": "https://github.com/jeriljon/node-k8s-spike#readme"
+}
