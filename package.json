@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeriljon/node-k8s-spike/issues"
   },
-  "homepage": "https://github.com/jeriljon/node-k8s-spike#readme"
+  "homepage": "https://github.com/jeriljon/node-k8s-spike#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
